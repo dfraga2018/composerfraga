@@ -1,0 +1,7 @@
+{
+    "name": "dougl/projeto_composer",
+    "description": "project",
+    "require": {
+        "twbs/bootstrap": "^4.1"
+    }
+}
